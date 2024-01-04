@@ -1,7 +1,7 @@
 # Prometheus IP Discovery
 
-Simple frankenstein Python script that scans network using `nmap` and then generate Prometheus
-target files that can be read using Prometheus `file_sd`.
+Simple frankenstein Python script that scans network subnet using `nmap` for currently live hosts
+and then generate Prometheus target files that can be read using Prometheus `file_sd_configs`.
 
 ## Preresquites
 
