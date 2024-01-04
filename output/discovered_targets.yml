@@ -1,0 +1,913 @@
+
+  - targets:
+      - 10.2.4.1
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.2
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.3
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.4
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.5
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.6
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.7
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.9
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.11
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.12
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.13
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.14
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.15
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.17
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.19
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.20
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.21
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.22
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.23
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.24
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.26
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.27
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.29
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.31
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.32
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.33
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.34
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.35
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.36
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.37
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.38
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.39
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.40
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.41
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.42
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.43
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.44
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.45
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.46
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.47
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.48
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.49
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.50
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.51
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.52
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.53
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.56
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.57
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.60
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.62
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.63
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.64
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.65
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.66
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.67
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.68
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.69
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.70
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.71
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.72
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.73
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.74
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.75
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.76
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.77
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.78
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.79
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.80
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.81
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.82
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.83
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.84
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.85
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.86
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.87
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.88
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.89
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.92
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.93
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.94
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.95
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.99
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.100
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.101
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.102
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.103
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.104
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.105
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.106
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.110
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.111
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.112
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.113
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.114
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.116
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.121
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.130
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.131
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.132
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.133
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.134
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.135
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.145
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.146
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.147
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.149
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.151
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.152
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.153
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.154
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.155
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.156
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.157
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.158
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.159
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.160
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.161
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.162
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.166
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.167
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.168
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.169
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.170
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.171
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.172
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.173
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.174
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.175
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.176
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.177
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.178
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.179
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.180
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.183
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.184
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.185
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.186
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.187
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.191
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.201
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.203
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.210
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.211
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.212
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.213
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.220
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.221
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.228
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.231
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.238
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.244
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+
+  - targets:
+      - 10.2.4.250
+    labels:
+      DEVICE_TYPE: 'CCTV' 
+      LOCATION: 'PELABUHAN BAKAUHENI'
+

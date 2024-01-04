@@ -1,0 +1,15 @@
+- targets:
+    - 10.10.10.1
+  labels:
+    label1: 'label1_value'
+    label2: 'label2_value'
+    label3: 'label3_value'
+    label4: 'label4_value'
+
+- targets:
+    - 10.10.10.2
+  labels:
+    label1: 'label1_value'
+    label2: 'label2_value'
+    label3: 'label3_value'
+    label4: 'label4_value'
