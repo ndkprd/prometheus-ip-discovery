@@ -36,6 +36,33 @@ python prom-ip-discovery.py --subnet 10.10.10.0/24 --label env=prod app=myapp
 
 ```
 
+## Prometheus Configuration
+
+```
+global:
+  scrape_interval: 1m
+  scrape_timeout: 15s
+  #evaluation_internal: 1m
+
+scrape_configs:
+
+  - job_name: 'blackbox-icmp'
+    metrics_path: /probe
+    params:
+      module: [icmp]
+    file_sd_configs:
+      - files:
+          - output/discovered_targets.yaml
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: blackbox-exporter:9115
+
+```
+
 ## License
 
 This project is licensed under [MIT license](https://mit-license.org/).
